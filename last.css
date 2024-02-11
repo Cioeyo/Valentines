@@ -1,0 +1,25 @@
+.image
+{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+/*TEXT*/
+.text
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.text2
+{
+    margin-top: 425px;
+    font-size: 1px;
+}
+
+body
+{
+    background-image: linear-gradient(360deg, pink,white);
+}
