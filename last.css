@@ -1,5 +1,6 @@
 .image
 {
+  margin-top:100px;
   display:flex;
   justify-content:center;
   align-items:center;
@@ -8,6 +9,7 @@
 /*TEXT*/
 .text
 {
+  margin-top:100px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 display:flex;
     justify-content:center;
